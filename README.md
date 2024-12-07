@@ -1,33 +1,55 @@
+  <h1 align="center">Hi, I'm Mosaad 👋</h1>
 
 
-<!--
-## Hi there 👋
-**MosaadIbrahimB/MosaadIbrahimB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 **Software Developer | Flutter  | Firebase**
 
-Here are some ideas to get you started:
+I'm passionate about creating technology to elevate people and help new developers find the right path.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌱 **What I Do**:
+- 🚀 Building mobile apps using **Flutter** and **Firebase**.
+- 🔧 Crafting efficient and user-friendly software solutions.
+- 💡 Guiding and mentoring new developers.
+- 🌐 **Consuming RESTful APIs and handling JSON** to integrate backend services seamlessly.
+
+---
+
+### 🔗 **Connect with Me**:
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/mosaad-ibrahim/)
+- 📧 Email: mosaadIbrahim85@gmail.com
+
+---
+
+### 🛠 **Tech Stack**:
+- **Languages**: Dart, Java, Kotlin,c++
+- **Frameworks**: Flutter, Firebase
+- **API Tools**: Dio, HTTP package
+- **Technologies**: RESTful APIs, JSON Parsing, GetIt, Provider,
+
+---
+
+### ⭐ **Featured Projects**:
+1. [📱 Quran App](https://github.com/MosaadIbrahimB/IslamApp)  
+   - A Flutter app that delivers Quran text and audio.  
+   - Features seamless **JSON data integration** via API.
+
+2. [⚖️ BMI App](https://github.com/MosaadIbrahimB/bmi_app)  
+   - Calculates Body Mass Index (BMI) based on user input.  
+   - Built with Flutter and includes a **modern UI** and **real-time calculations**.  
+
+3. [📰 News App](https://github.com/MosaadIbrahimB/news-app-2024)  
+      - Delivers the latest news from various sources using **RESTful APIs** and JSON parsing.
 
 
 
-<h1 align="center">Hi, I'm Mosaad 👋</h1>
-<p align="center">
-    <a href="https://www.linkedin.com/in/mosaad-ibrahim"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
-  </p>
-  
-  <img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png" align="right" width="25%"/>
+---
 
-I'm a software developer who is passionate about creating technology to elevate people and help new developers to find the right path. Some technologies I enjoy working with include , 
-dart, flutter, and Firebase.
+### 🌟 **Special Skills**:
+- Parsing and handling **complex JSON data structures**.
+- Implementing **Dio** for HTTP requests and error handling.
+- Optimizing API responses for **offline storage** using caching techniques.
 
-- 🔭 I'm a software developer 
+---
 
-- 💬 Ask me about **flutter**
+Feel free to explore my projects or connect with me for collaborations!
