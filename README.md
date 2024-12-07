@@ -5,7 +5,6 @@
 
 I'm passionate about creating technology to elevate people and help new developers find the right path.
 
----
 
 ### 🌱 **What I Do**:
 - 🚀 Building mobile apps using **Flutter** and **Firebase**.
@@ -13,13 +12,11 @@ I'm passionate about creating technology to elevate people and help new develope
 - 💡 Guiding and mentoring new developers.
 - 🌐 **Consuming RESTful APIs and handling JSON** to integrate backend services seamlessly.
 
----
 
 ### 🔗 **Connect with Me**:
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/mosaad-ibrahim/)
 - 📧 Email: mosaadIbrahim85@gmail.com
 
----
 
 ### 🛠 **Tech Stack**:
 - **Languages**: Dart, Java, Kotlin,c++
@@ -27,7 +24,6 @@ I'm passionate about creating technology to elevate people and help new develope
 - **API Tools**: Dio, HTTP package
 - **Technologies**: RESTful APIs, JSON Parsing, GetIt, Provider,
 
----
 
 ### ⭐ **Featured Projects**:
 1. [📱 Quran App](https://github.com/MosaadIbrahimB/IslamApp)  
@@ -43,13 +39,11 @@ I'm passionate about creating technology to elevate people and help new develope
 
 
 
----
 
 ### 🌟 **Special Skills**:
 - Parsing and handling **complex JSON data structures**.
 - Implementing **Dio** for HTTP requests and error handling.
 - Optimizing API responses for **offline storage** using caching techniques.
 
----
 
 Feel free to explore my projects or connect with me for collaborations!
