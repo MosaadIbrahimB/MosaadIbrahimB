@@ -26,18 +26,17 @@ I'm passionate about creating technology to elevate people and help new develope
 
 
 ### ⭐ **Featured Projects**:
-1. [📱 Quran App](https://github.com/MosaadIbrahimB/IslamApp)  
-   - A Flutter app that delivers Quran text and audio.  
-   - Features seamless **JSON data integration** via API.
+1. [📰 News App](https://github.com/MosaadIbrahimB/news-app-2024)  
+      - Delivers the latest news from various sources using **RESTful APIs** and JSON parsing.
 
 2. [⚖️ BMI App](https://github.com/MosaadIbrahimB/bmi_app)  
    - Calculates Body Mass Index (BMI) based on user input.  
    - Built with Flutter and includes a **modern UI** and **real-time calculations**.  
 
-3. [📰 News App](https://github.com/MosaadIbrahimB/news-app-2024)  
-      - Delivers the latest news from various sources using **RESTful APIs** and JSON parsing.
 
-
+3. [📱 Quran App](https://github.com/MosaadIbrahimB/IslamApp)  
+   - A Flutter app that delivers Quran text and audio.  
+   - Features seamless **JSON data integration** via API.
 
 
 ### 🌟 **Special Skills**:
